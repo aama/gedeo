@@ -1,6 +1,9 @@
 {
 :lang :gedeo
 :sgpref "ged"
+:datasource "WedekindK1985"
+:geodemoURL "http://www.ethnologue.com/language/drs"
+:geodemoTXT "Varieties and subdialects of Gedeo are spoken in"
 :schemata {
 :case [:Absolutive, :Nominative]
 	  :caseHead [:Absolutive]
