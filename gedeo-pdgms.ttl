@@ -301,8 +301,6 @@ ged:proClass aamas:pclass aamas:synsemClass .
 aamas:synsemClass rdfs:label "synsemClass" .
 ged:tamb aamas:pclass aamas:synsemClass .
 aamas:synsemClass rdfs:label "synsemClass" .
-ged:conjClass aamas:pclass aamas:inflClass .
-aamas:inflClass rdfs:label "inflClass" .
 
 #MORPHEMES:
 
@@ -346,7 +344,7 @@ ged:gedeo-VAffHypothNonActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID52dc10f0-1ea7-4300-8753-b6a2c1880791 a aamas:Term ;
+aama:ID5684c4a4-3016-4653-8227-792ccc0566c6 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -359,7 +357,7 @@ aama:ID52dc10f0-1ea7-4300-8753-b6a2c1880791 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDa361f8c9-0fc7-4188-a2e6-a5d29f692559 a aamas:Term ;
+aama:IDa54ff2fd-7211-4a8a-964d-9f9e3ae99125 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -372,7 +370,7 @@ aama:IDa361f8c9-0fc7-4188-a2e6-a5d29f692559 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID6e2a9088-89e3-4c81-8feb-e60e7587e716 a aamas:Term ;
+aama:ID822e3d32-246c-4566-a19a-6b0d29db1948 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -385,7 +383,7 @@ aama:ID6e2a9088-89e3-4c81-8feb-e60e7587e716 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDa4d3b4a9-bc1c-47b0-a715-aadcb4470cba a aamas:Term ;
+aama:ID74470c5e-815a-46ac-aed6-0dd1378d78a8 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -398,7 +396,7 @@ aama:IDa4d3b4a9-bc1c-47b0-a715-aadcb4470cba a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID6c7af578-4059-41e2-9380-ec39f883b7ce a aamas:Term ;
+aama:IDac9a924f-fa9f-4580-bb7e-6fabc9dcc948 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -411,7 +409,7 @@ aama:ID6c7af578-4059-41e2-9380-ec39f883b7ce a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID120b2683-bf60-48ad-83db-1b5f782c4ab6 a aamas:Term ;
+aama:ID2a96cb29-e632-4fda-9780-ef655b63f621 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -424,7 +422,7 @@ aama:ID120b2683-bf60-48ad-83db-1b5f782c4ab6 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID578e4aa3-d79c-4c13-8e78-a1a4ff2d4654 a aamas:Term ;
+aama:ID57dd2ef6-292c-4eea-9cd4-0978fa390ba9 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -444,7 +442,7 @@ ged:gedeo-VNegPerfActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID6ae3612b-0a85-45f7-b0a0-718dbd4d5c59 a aamas:Term ;
+aama:ID3a7125a8-b581-4a5e-bb51-be5cdb9c361d a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -457,7 +455,7 @@ aama:ID6ae3612b-0a85-45f7-b0a0-718dbd4d5c59 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID3a635c50-8a15-4d36-9c7e-6d9e6cde1f73 a aamas:Term ;
+aama:ID39f572cb-0d90-4ba8-ac1f-27712eb5610a a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -470,7 +468,7 @@ aama:ID3a635c50-8a15-4d36-9c7e-6d9e6cde1f73 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDb5fa796e-f437-4357-833b-622034631ad6 a aamas:Term ;
+aama:IDf0f58e85-7258-40d9-bbfa-d59fe05dcb4e a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -483,7 +481,7 @@ aama:IDb5fa796e-f437-4357-833b-622034631ad6 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID67c5020f-eedb-4e97-b1c8-baf7525da91a a aamas:Term ;
+aama:IDd444696c-ac17-4528-929c-4c843f6de2ff a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -496,7 +494,7 @@ aama:ID67c5020f-eedb-4e97-b1c8-baf7525da91a a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID2d3a602a-4ff4-43c3-8e65-3f346afb4ec2 a aamas:Term ;
+aama:IDf7f6985c-5fef-4562-a84b-ce7bd0052424 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -509,7 +507,7 @@ aama:ID2d3a602a-4ff4-43c3-8e65-3f346afb4ec2 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDcabd1fc0-b755-489d-af54-decadec8c20c a aamas:Term ;
+aama:IDe5eae131-b918-4459-bec2-422bb54ea128 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -522,7 +520,7 @@ aama:IDcabd1fc0-b755-489d-af54-decadec8c20c a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID694e070b-610a-4a63-8fa8-a7b88575df5b a aamas:Term ;
+aama:ID42bc0b5d-ccec-4a5c-8176-a4b6286eb486 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -542,7 +540,7 @@ ged:gedeo-VAffImperfFut-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDc0c827b7-8532-4321-87f0-3834d839b1f7 a aamas:Term ;
+aama:IDf195e015-820b-4c92-9b51-8fbaaad3562c a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -555,7 +553,7 @@ aama:IDc0c827b7-8532-4321-87f0-3834d839b1f7 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID8c48aae1-0ab0-4ff4-9c56-30e6152a938b a aamas:Term ;
+aama:ID94bf34a5-75ab-471d-90e4-269a55d2a9f4 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -568,7 +566,7 @@ aama:ID8c48aae1-0ab0-4ff4-9c56-30e6152a938b a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID48e933f1-cd21-4712-81ea-42c76795575c a aamas:Term ;
+aama:ID30b4ac3e-d508-42b0-ac19-5e8492790f78 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -581,7 +579,7 @@ aama:ID48e933f1-cd21-4712-81ea-42c76795575c a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDa5117ae9-2405-4e1f-bd3a-eeb88da0095e a aamas:Term ;
+aama:ID393b5e97-e0db-4d62-b68b-d1a41927228c a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -594,7 +592,7 @@ aama:IDa5117ae9-2405-4e1f-bd3a-eeb88da0095e a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID3ab94ae8-a22e-4272-b153-3a72266c8c2c a aamas:Term ;
+aama:ID5c71bb73-d8fc-4248-b62d-95fc2564f4fc a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -607,7 +605,7 @@ aama:ID3ab94ae8-a22e-4272-b153-3a72266c8c2c a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID3883f65b-a749-42ab-8305-29a24dad2e00 a aamas:Term ;
+aama:IDedff51c0-9903-4dc8-b249-b6efc9201a18 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -620,7 +618,7 @@ aama:ID3883f65b-a749-42ab-8305-29a24dad2e00 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID5593e0f2-89d9-4389-b40e-5ed057ec24e3 a aamas:Term ;
+aama:ID62d076dd-7dc8-4a47-9bec-885afb468dd0 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfFut-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -640,7 +638,7 @@ ged:gedeo-VAffPerfNonActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDfc82fa41-ac9f-42a7-b93b-f4068df3762c a aamas:Term ;
+aama:IDbad090c3-3455-407a-ab0c-a2b7225c51a8 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -653,7 +651,7 @@ aama:IDfc82fa41-ac9f-42a7-b93b-f4068df3762c a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID4ab6f6e5-0e7f-4745-a5fb-bc8f99d317df a aamas:Term ;
+aama:IDb25d4751-1bf2-4a48-bed4-eea274074579 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -666,7 +664,7 @@ aama:ID4ab6f6e5-0e7f-4745-a5fb-bc8f99d317df a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID5826b740-b445-4b78-8259-769621bda952 a aamas:Term ;
+aama:ID97d25ede-2267-4997-b5bf-d211489eb21f a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -679,7 +677,7 @@ aama:ID5826b740-b445-4b78-8259-769621bda952 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID208e8760-05a8-4524-84cd-4821b03a43e0 a aamas:Term ;
+aama:ID24dccfc4-2f47-481c-b62d-a5558d30dcd7 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -692,7 +690,7 @@ aama:ID208e8760-05a8-4524-84cd-4821b03a43e0 a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID1343f7ee-b6c5-4921-a074-9a13578fea35 a aamas:Term ;
+aama:IDafb56be7-2e91-4120-aad4-17646e7c4718 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -705,7 +703,7 @@ aama:ID1343f7ee-b6c5-4921-a074-9a13578fea35 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID58c675da-649f-411c-b98d-581ee4b62d95 a aamas:Term ;
+aama:ID51da4a41-a697-439b-89b4-c0a4a1f0294a a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -718,7 +716,7 @@ aama:ID58c675da-649f-411c-b98d-581ee4b62d95 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID4db530ae-ef1a-4595-9594-f49df9913c22 a aamas:Term ;
+aama:ID86afacac-2b96-4008-943a-1ca9ef00164c a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -738,7 +736,7 @@ ged:gedeo-VAffDepPurp-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID01596a2f-49db-4f2f-ad40-654dcdff6b61 a aamas:Term ;
+aama:IDf526bb6d-e9ae-4771-aab8-2ea08378e5b5 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -751,7 +749,7 @@ aama:ID01596a2f-49db-4f2f-ad40-654dcdff6b61 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID54e07931-adea-4339-a311-b7a6760f94dd a aamas:Term ;
+aama:ID27932616-2320-4cdf-929b-8234292c39e0 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -764,7 +762,7 @@ aama:ID54e07931-adea-4339-a311-b7a6760f94dd a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID4ca19706-cc88-4b4e-8e18-ffb6229b0eec a aamas:Term ;
+aama:ID059926a7-384f-40a8-97f0-04ffdab041c5 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -777,7 +775,7 @@ aama:ID4ca19706-cc88-4b4e-8e18-ffb6229b0eec a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID47906842-9d33-4e56-98de-660ccc4744c9 a aamas:Term ;
+aama:IDeed629a1-ad07-49ee-8a76-6fe6bd2e39ae a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -790,7 +788,7 @@ aama:ID47906842-9d33-4e56-98de-660ccc4744c9 a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:IDe16a4c13-c775-4cb9-8619-a22c8f7deb00 a aamas:Term ;
+aama:IDc309e677-c438-4e4c-a0ae-30a7e738e57b a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -803,7 +801,7 @@ aama:IDe16a4c13-c775-4cb9-8619-a22c8f7deb00 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID24926fd5-1269-406c-9fa9-e2f2f9e46494 a aamas:Term ;
+aama:ID7f97f4f2-86fb-4ad6-b03f-a7a84a4f6e54 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -816,7 +814,7 @@ aama:ID24926fd5-1269-406c-9fa9-e2f2f9e46494 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID6c720ccc-bab4-4344-920e-e00acd55c033 a aamas:Term ;
+aama:IDf1d20db1-0449-455c-86bb-793425ef3ad2 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepPurp-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -836,7 +834,7 @@ ged:gedeo-VAffPerfActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDf5380579-f4c2-4303-ba04-261a4f996840 a aamas:Term ;
+aama:IDac113a53-c682-44b1-b904-6e8e1f67c787 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -849,7 +847,7 @@ aama:IDf5380579-f4c2-4303-ba04-261a4f996840 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID23d1801c-5b31-494f-b441-98fb1623c859 a aamas:Term ;
+aama:ID20a46d9a-bab9-4455-a2f7-167cce4db4fc a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -862,7 +860,7 @@ aama:ID23d1801c-5b31-494f-b441-98fb1623c859 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDc024443f-f20e-4062-8285-10d7c99ad236 a aamas:Term ;
+aama:ID913be336-dadb-433f-b557-3d8fd396b1e4 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -875,7 +873,7 @@ aama:IDc024443f-f20e-4062-8285-10d7c99ad236 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID9367e77b-7ffa-4e88-b36a-b4b1ee7eb1dc a aamas:Term ;
+aama:IDd31f6e28-bc7b-4645-a7fe-405aaeb1b346 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -888,7 +886,7 @@ aama:ID9367e77b-7ffa-4e88-b36a-b4b1ee7eb1dc a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID8122a468-c5f3-447d-bc6b-520b273a2564 a aamas:Term ;
+aama:ID1851f151-99cc-4bcf-8517-0adbf16004c2 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -901,7 +899,7 @@ aama:ID8122a468-c5f3-447d-bc6b-520b273a2564 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID303ea78d-94f7-4f64-82f2-094884b7e38d a aamas:Term ;
+aama:IDf5192209-312c-4798-af2a-acbd9594568b a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -914,7 +912,7 @@ aama:ID303ea78d-94f7-4f64-82f2-094884b7e38d a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDbebcddcd-34f5-46ac-99b6-e81caed9fecf a aamas:Term ;
+aama:IDa4f2fb68-1f53-4f85-82c4-a541eca69349 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -934,7 +932,7 @@ ged:gedeo-VNegPerfNonPres-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID822a0b63-8832-4457-a952-28baaa95ef0c a aamas:Term ;
+aama:ID2835cb44-3b46-409b-a363-aaabea983b7a a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -947,7 +945,7 @@ aama:ID822a0b63-8832-4457-a952-28baaa95ef0c a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDc2b94d95-7df7-48f5-9413-ac9185fe3506 a aamas:Term ;
+aama:ID5135ee2e-a661-48fc-8956-3a7362d685fa a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -960,7 +958,7 @@ aama:IDc2b94d95-7df7-48f5-9413-ac9185fe3506 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDadd6a231-9d0f-4262-a763-e9b253f8c591 a aamas:Term ;
+aama:ID24203611-681e-4a97-8ace-80579085f1bb a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -973,7 +971,7 @@ aama:IDadd6a231-9d0f-4262-a763-e9b253f8c591 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID4ac465db-83e2-42a7-9bd9-93c0fa8fb494 a aamas:Term ;
+aama:ID542bde19-ce25-42aa-a569-82706be5dc61 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -986,7 +984,7 @@ aama:ID4ac465db-83e2-42a7-9bd9-93c0fa8fb494 a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID79caadaa-7bfc-43be-a135-3f98d8ac7adb a aamas:Term ;
+aama:ID09616b2e-6124-482e-aa3b-ab1f252cf725 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -999,7 +997,7 @@ aama:ID79caadaa-7bfc-43be-a135-3f98d8ac7adb a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID1f268cd9-bd91-4998-9b51-b6fb19bc41a1 a aamas:Term ;
+aama:IDfb9a136b-c81e-468c-b73d-24bbc14292ec a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1012,7 +1010,7 @@ aama:ID1f268cd9-bd91-4998-9b51-b6fb19bc41a1 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID164d534b-f6dc-48b6-8e18-c54f884d6590 a aamas:Term ;
+aama:IDc2e69e58-e131-45d2-b496-a3284c057654 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1032,7 +1030,7 @@ ged:gedeo-VInterrPerf-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID6ae597ec-c495-4845-9c03-ea007586c7be a aamas:Term ;
+aama:ID983ba4ee-8c89-4c4f-8697-d2da9a1a09ae a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VInterrPerf-mar ;
 	ged:gender ged:Common ;
@@ -1045,7 +1043,7 @@ aama:ID6ae597ec-c495-4845-9c03-ea007586c7be a aamas:Term ;
 	ged:number ged:Singular ;
 	.
 
-aama:IDde524ff4-9c81-4d46-a2cd-be4a0fe38e54 a aamas:Term ;
+aama:ID38347cd5-69a3-4792-90c7-71dce6078103 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VInterrPerf-mar ;
 	ged:gender ged:Common ;
@@ -1058,7 +1056,7 @@ aama:IDde524ff4-9c81-4d46-a2cd-be4a0fe38e54 a aamas:Term ;
 	ged:number ged:Singular ;
 	.
 
-aama:ID611cfa61-bcaa-4b1d-8471-cf0f95c31705 a aamas:Term ;
+aama:ID03cbf084-491f-43f3-b3ea-c579d300dbee a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VInterrPerf-mar ;
 	ged:gender ged:Common ;
@@ -1071,7 +1069,7 @@ aama:ID611cfa61-bcaa-4b1d-8471-cf0f95c31705 a aamas:Term ;
 	ged:number ged:Plural ;
 	.
 
-aama:ID4e5e0efa-3384-4361-9244-838cab22b01f a aamas:Term ;
+aama:IDb401cd17-0c10-46e4-a28b-92b2b9a63934 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VInterrPerf-mar ;
 	ged:gender ged:Common ;
@@ -1091,7 +1089,7 @@ ged:gedeo-VAffHypothNonPres-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDbfd4ca9e-deac-4840-a46c-d1186c467796 a aamas:Term ;
+aama:ID1ed68a06-abc7-4c01-89cb-5c629266c082 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1104,7 +1102,7 @@ aama:IDbfd4ca9e-deac-4840-a46c-d1186c467796 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDbb257bf9-c116-4f91-a079-e6f5aa07430a a aamas:Term ;
+aama:IDc2e6fff6-9098-4721-a76b-6012a6f17af5 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1117,7 +1115,7 @@ aama:IDbb257bf9-c116-4f91-a079-e6f5aa07430a a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID478d80b6-3cfe-4333-9d91-e62153f3cf4d a aamas:Term ;
+aama:IDa20d0317-7477-4574-ad01-767c47b7ad10 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1130,7 +1128,7 @@ aama:ID478d80b6-3cfe-4333-9d91-e62153f3cf4d a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDd2351af3-7eab-4998-9165-29bd7df271fb a aamas:Term ;
+aama:ID346e2885-ed94-4b51-9788-7ee467639afc a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1143,7 +1141,7 @@ aama:IDd2351af3-7eab-4998-9165-29bd7df271fb a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:IDfb94ad12-f887-4545-a413-9a547e8b2bd5 a aamas:Term ;
+aama:IDfa8b87f2-fec7-41d0-a0de-623f840ee5d1 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1156,7 +1154,7 @@ aama:IDfb94ad12-f887-4545-a413-9a547e8b2bd5 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDe9ef8016-a3fe-4bbd-8446-a9181a208cd1 a aamas:Term ;
+aama:ID01e0a39d-75a0-4e95-9302-89c976eddd43 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1169,7 +1167,7 @@ aama:IDe9ef8016-a3fe-4bbd-8446-a9181a208cd1 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID2aac1fe4-281a-4fc1-a516-99433fd46bd2 a aamas:Term ;
+aama:ID6e2484ad-db96-42fd-90bf-7ac78cebeae8 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffHypothNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1189,7 +1187,7 @@ ged:gedeo-VAffPerfNonPres2-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID5c06499e-76d5-4e06-ad86-e4ae90573f88 a aamas:Term ;
+aama:ID3267d961-a64a-44e9-b11d-0d4c4530b7de a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1202,7 +1200,7 @@ aama:ID5c06499e-76d5-4e06-ad86-e4ae90573f88 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDca1b07f3-158a-4c86-aed9-25eab80d3691 a aamas:Term ;
+aama:ID76dc5e4d-0ac2-4244-8276-127d41dffa58 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1215,7 +1213,7 @@ aama:IDca1b07f3-158a-4c86-aed9-25eab80d3691 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID5d79c888-4f77-4863-ac85-bf1c8408a1b8 a aamas:Term ;
+aama:IDc8c77277-eb17-4e61-b76d-a29ad4d357ce a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1228,7 +1226,7 @@ aama:ID5d79c888-4f77-4863-ac85-bf1c8408a1b8 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID0ff22d4d-b4f2-4877-893e-9853334013ab a aamas:Term ;
+aama:ID5f20b152-fcdd-4564-b55a-c2e87d9c6aed a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1241,7 +1239,7 @@ aama:ID0ff22d4d-b4f2-4877-893e-9853334013ab a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID1de6e010-4280-4aff-902c-0b56154bca29 a aamas:Term ;
+aama:ID969a0694-d832-40da-b9fa-772ad0f04203 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1254,7 +1252,7 @@ aama:ID1de6e010-4280-4aff-902c-0b56154bca29 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID6de2d8ec-e1eb-40a1-a634-7fd95f0ed610 a aamas:Term ;
+aama:ID395e5b73-00af-45b0-90bf-bbba9cae3492 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1267,7 +1265,7 @@ aama:ID6de2d8ec-e1eb-40a1-a634-7fd95f0ed610 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDe6fe65b1-37f9-4449-b304-5ecde23fe65e a aamas:Term ;
+aama:IDd9076737-f49c-4a68-b5e3-c635d2dcbacf a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1287,7 +1285,7 @@ ged:gedeo-VAffImperfActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID3de61a67-2c2e-428c-a079-00c9ba225e6e a aamas:Term ;
+aama:IDa510d9e9-3587-47a8-9d24-47d0c25bdb60 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1300,7 +1298,7 @@ aama:ID3de61a67-2c2e-428c-a079-00c9ba225e6e a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID9c710905-5270-4b85-bc14-2196aac56e9a a aamas:Term ;
+aama:ID5a510e9a-257c-4369-a390-ac550901fcff a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1313,7 +1311,7 @@ aama:ID9c710905-5270-4b85-bc14-2196aac56e9a a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID961463bb-b817-4082-97f5-0c021b479743 a aamas:Term ;
+aama:ID04686cad-3e43-443b-8a55-1aa1dfd89a46 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1326,7 +1324,7 @@ aama:ID961463bb-b817-4082-97f5-0c021b479743 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID2c8cd56a-ead5-4671-a348-ebb187a6abad a aamas:Term ;
+aama:ID4a274964-5e84-4d5b-8881-6289ce1b7558 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1339,7 +1337,7 @@ aama:ID2c8cd56a-ead5-4671-a348-ebb187a6abad a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID8e7d7d65-6f47-47db-88e8-3a2ca009f7cd a aamas:Term ;
+aama:IDa71a6529-496f-4e5f-9c69-ecbef0e51205 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1352,7 +1350,7 @@ aama:ID8e7d7d65-6f47-47db-88e8-3a2ca009f7cd a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID20446e80-4972-4f97-b2e5-b6d29f99a735 a aamas:Term ;
+aama:ID351e182a-bfbc-44ba-b701-2f457b7a02a9 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1365,7 +1363,7 @@ aama:ID20446e80-4972-4f97-b2e5-b6d29f99a735 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID766778e5-d1a7-45b4-b4ec-9f642f0f95dd a aamas:Term ;
+aama:IDa234053f-8c7e-4a9b-9088-23795658bdc2 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1385,7 +1383,7 @@ ged:gedeo-VAffImperfNonPres2-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDc5df8d77-54df-4302-ba99-4708a5ed9f9d a aamas:Term ;
+aama:ID3911eded-42b0-4aa7-95bb-a509de37e2e3 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1398,7 +1396,7 @@ aama:IDc5df8d77-54df-4302-ba99-4708a5ed9f9d a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDb2e980a8-31e5-4290-9ffc-2fbb225171f3 a aamas:Term ;
+aama:ID848dddcc-6665-4051-9ec5-83086706238b a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1411,7 +1409,7 @@ aama:IDb2e980a8-31e5-4290-9ffc-2fbb225171f3 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID29b4774a-4169-4728-970f-456231d46881 a aamas:Term ;
+aama:IDafde6c75-1314-43d6-b599-451a8d8c9a5a a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1424,7 +1422,7 @@ aama:ID29b4774a-4169-4728-970f-456231d46881 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID3c910001-5803-4cd4-8b4e-882d9285e5ab a aamas:Term ;
+aama:IDe8f14d50-8e58-40c8-8f01-2850be12bab5 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1437,7 +1435,7 @@ aama:ID3c910001-5803-4cd4-8b4e-882d9285e5ab a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID71e2a5e7-3d6f-4046-8c4b-8afd30accd56 a aamas:Term ;
+aama:ID25e41406-cc4b-4cd3-8d56-1484ec85abac a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1450,7 +1448,7 @@ aama:ID71e2a5e7-3d6f-4046-8c4b-8afd30accd56 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID23cf2ee6-7b90-46b8-9d90-cab84d35da91 a aamas:Term ;
+aama:ID516fbaa7-cd59-411a-9da6-bb771792e778 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1463,7 +1461,7 @@ aama:ID23cf2ee6-7b90-46b8-9d90-cab84d35da91 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDa664e929-7bca-4848-bed6-7007f0c3211f a aamas:Term ;
+aama:ID676d4c36-743a-43eb-ba8f-357dbbf4495f a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres2-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1483,7 +1481,7 @@ ged:gedeo-VAffDepCond-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDcc604488-eed5-400b-aaa6-6be2b608756e a aamas:Term ;
+aama:IDc5136b67-6629-4d0d-ba51-bf0be8bd0d40 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1496,7 +1494,7 @@ aama:IDcc604488-eed5-400b-aaa6-6be2b608756e a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID9d47c81f-355e-4f56-aa14-19bc5afceb46 a aamas:Term ;
+aama:IDca9294a7-8d7c-4270-bdd1-f3de87afb240 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1509,7 +1507,7 @@ aama:ID9d47c81f-355e-4f56-aa14-19bc5afceb46 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID8dad7764-9f5b-4097-a716-fb7879894d41 a aamas:Term ;
+aama:IDeee5f407-165e-4bfa-87e5-40f54b353996 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1522,7 +1520,7 @@ aama:ID8dad7764-9f5b-4097-a716-fb7879894d41 a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID700cc6d6-87e6-4bb4-ad02-7c2b674f1514 a aamas:Term ;
+aama:IDc42a9e1a-29ab-4766-be3e-4c8da1b4cc44 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1535,7 +1533,7 @@ aama:ID700cc6d6-87e6-4bb4-ad02-7c2b674f1514 a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:IDc6414208-5801-4f4b-90c5-d0d1d81f4c49 a aamas:Term ;
+aama:IDccfdbe65-7767-499a-94af-b399473eb533 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1548,7 +1546,7 @@ aama:IDc6414208-5801-4f4b-90c5-d0d1d81f4c49 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDcd89645c-0152-413f-8d4e-4d5a70c7b0e2 a aamas:Term ;
+aama:IDc61402bb-34a4-4ac9-9367-0ae1794acaec a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1561,7 +1559,7 @@ aama:IDcd89645c-0152-413f-8d4e-4d5a70c7b0e2 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID8b8ad8af-ae34-42ca-9108-f0a83624dd4d a aamas:Term ;
+aama:ID215d56e0-5a97-4305-9373-d416380c7a04 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffDepCond-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1581,7 +1579,7 @@ ged:gedeo-VAffPerfNonPres-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:ID9370f45f-c990-465f-98da-1c908638199c a aamas:Term ;
+aama:ID2f3e7b7d-54b3-436b-92e9-5b99d1b19b2d a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1594,7 +1592,7 @@ aama:ID9370f45f-c990-465f-98da-1c908638199c a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDf75da2de-58bb-4093-8aa6-0948fd246e87 a aamas:Term ;
+aama:ID58632738-01d0-4467-8d6f-4eb5f626b8a6 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1607,7 +1605,7 @@ aama:IDf75da2de-58bb-4093-8aa6-0948fd246e87 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID94bd5998-ef22-478f-a415-7ef034f817ec a aamas:Term ;
+aama:IDa25b0bc6-d9f0-418e-a28f-edad3e4d88b8 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1620,7 +1618,7 @@ aama:ID94bd5998-ef22-478f-a415-7ef034f817ec a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDaf87579b-ebc7-4600-ae41-cb3441663cfa a aamas:Term ;
+aama:ID979ae473-8775-40eb-b1ad-0b59c57c96fa a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1633,7 +1631,7 @@ aama:IDaf87579b-ebc7-4600-ae41-cb3441663cfa a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:IDb221cbba-09c3-4ad0-8c69-f52836f7a22d a aamas:Term ;
+aama:ID548b2573-1c95-4457-813e-acec9dbdf11b a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1646,7 +1644,7 @@ aama:IDb221cbba-09c3-4ad0-8c69-f52836f7a22d a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDc9223b11-a8c9-4701-8e0e-e84c72d8b56b a aamas:Term ;
+aama:ID6eb7218c-6016-465d-9b6a-0e39746d1760 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1659,7 +1657,7 @@ aama:IDc9223b11-a8c9-4701-8e0e-e84c72d8b56b a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID3f3c437b-42d1-4035-b660-0201e0e823bf a aamas:Term ;
+aama:ID760bc742-b1a6-42d9-99d3-c2e037b9d259 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffPerfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1679,7 +1677,7 @@ ged:gedeo-VAffImperfNonActual-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDfefbf166-3beb-491e-a991-0450f4e177cb a aamas:Term ;
+aama:IDc3ff154f-d3e4-497f-90a1-c3cfd3320729 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1692,7 +1690,7 @@ aama:IDfefbf166-3beb-491e-a991-0450f4e177cb a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID93482805-ccdd-4739-a11e-1d8bafb1d1e4 a aamas:Term ;
+aama:ID016bdce4-e086-4d2a-81e7-6c6a35572257 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1705,7 +1703,7 @@ aama:ID93482805-ccdd-4739-a11e-1d8bafb1d1e4 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID770cdc53-5371-4868-8d02-6af51f7a4dfc a aamas:Term ;
+aama:ID50f6e221-135b-4727-9e78-5100f6fc0a7b a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1718,7 +1716,7 @@ aama:ID770cdc53-5371-4868-8d02-6af51f7a4dfc a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDd365ca3e-94bf-468b-8810-fe5b1b14f6ed a aamas:Term ;
+aama:ID73e130be-9544-4964-8683-de47ab273351 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1731,7 +1729,7 @@ aama:IDd365ca3e-94bf-468b-8810-fe5b1b14f6ed a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID9c06ab6d-d37b-45bf-b559-9b3c0f25c817 a aamas:Term ;
+aama:IDfe8ee769-eaaa-4b61-962b-a4996f93d6b4 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1744,7 +1742,7 @@ aama:ID9c06ab6d-d37b-45bf-b559-9b3c0f25c817 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID2621b54a-e222-46cd-8a71-f55cce61caa7 a aamas:Term ;
+aama:ID60569be0-4178-4c73-94bb-3a2b8a32e5b7 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1757,7 +1755,7 @@ aama:ID2621b54a-e222-46cd-8a71-f55cce61caa7 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDf19d723d-81f5-4fb1-892a-12b64f075be8 a aamas:Term ;
+aama:ID18e5a565-4521-4a02-bf7b-c117a4983be3 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonActual-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1777,7 +1775,7 @@ ged:gedeo-VNegImprtv-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDf293f886-1c75-41c2-8347-f4086b4fb2cb a aamas:Term ;
+aama:IDbaedec55-7b63-499e-b54c-b8d823fcf8b1 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegImprtv-mar ;
 	ged:gender ged:Common ;
@@ -1790,7 +1788,7 @@ aama:IDf293f886-1c75-41c2-8347-f4086b4fb2cb a aamas:Term ;
 	ged:number ged:Singular ;
 	.
 
-aama:IDcd0f2219-4a5f-45f7-9fb1-0234959886c0 a aamas:Term ;
+aama:IDa753d385-4371-4fa4-b626-35ffda5466a4 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VNegImprtv-mar ;
 	ged:gender ged:Common ;
@@ -1810,7 +1808,7 @@ ged:gedeo-VAffImperfNonPres-mar a aamas:Termcluster ;
 	rdfs:comment "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment%%for lack of relevant syntactic information%%main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form%%but without the glottal stop%%is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current%%younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104." 
 	.
 
-aama:IDe3dc0482-54e1-4525-bc3f-956267882a88 a aamas:Term ;
+aama:IDee193608-f5c2-4082-b508-111ce0a368d2 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1823,7 +1821,7 @@ aama:IDe3dc0482-54e1-4525-bc3f-956267882a88 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDd381d0aa-202f-4891-b940-74dd26e50053 a aamas:Term ;
+aama:IDe0cb68fe-a03e-4379-884c-9e6a8f5be920 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1836,7 +1834,7 @@ aama:IDd381d0aa-202f-4891-b940-74dd26e50053 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDaa9cb9a6-032f-4c06-a348-4776bbfadfeb a aamas:Term ;
+aama:ID93dcf272-7b84-4953-a33b-b6350a2d9962 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1849,7 +1847,7 @@ aama:IDaa9cb9a6-032f-4c06-a348-4776bbfadfeb a aamas:Term ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID91358786-1d8b-4ba8-be67-4721c3fcf844 a aamas:Term ;
+aama:ID71caf123-3a25-47fd-8f38-501af554e61c a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1862,7 +1860,7 @@ aama:ID91358786-1d8b-4ba8-be67-4721c3fcf844 a aamas:Term ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID417012ae-bf5c-4f81-9a2e-aab6854a6f99 a aamas:Term ;
+aama:IDadb7fdc3-1e69-4db4-90d9-42fdd374fb23 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1875,7 +1873,7 @@ aama:ID417012ae-bf5c-4f81-9a2e-aab6854a6f99 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDca646b0c-88b3-43e8-8891-9a5030b67256 a aamas:Term ;
+aama:ID876a553e-1648-47b2-9169-5dd6f330d8c5 a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1888,7 +1886,7 @@ aama:IDca646b0c-88b3-43e8-8891-9a5030b67256 a aamas:Term ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID63fa042b-de70-414d-8d64-9eacc183796a a aamas:Term ;
+aama:ID65a50847-9e91-4c6e-870b-8d73053afc4f a aamas:Term ;
 	aamas:lang aama:Gedeo ;
 	aamas:memberOf ged:gedeo-VAffImperfNonPres-mar ;
 	aamas:lexeme aama:Gedeo-mar ;
@@ -1908,7 +1906,7 @@ ged:gedeo-PInterr a aamas:MuTermcluster ;
 	rdfs:comment "HudsonG1976 p. 259." 
 	.
 
-aama:ID75f8f168-9e1f-4cd5-bd92-c7eef79e33cd a aamas:Muterm ;
+aama:ID3cbb009b-467f-44f2-abd3-ca5fce620138 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1917,7 +1915,7 @@ aama:ID75f8f168-9e1f-4cd5-bd92-c7eef79e33cd a aamas:Muterm ;
 	ged:interrogClass ged:InterrogProWho ;
 	.
 
-aama:ID3e2fe7c7-e943-412a-ba42-64f5a9345b29 a aamas:Muterm ;
+aama:ID6ed2a4e9-e1ac-462e-91f8-6958a59ac80d a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1926,7 +1924,7 @@ aama:ID3e2fe7c7-e943-412a-ba42-64f5a9345b29 a aamas:Muterm ;
 	ged:interrogClass ged:InterrogProWhat ;
 	.
 
-aama:ID347601f4-fae3-44c2-b79f-a1fc33179078 a aamas:Muterm ;
+aama:ID812437bb-bded-46ea-add7-93d74f4a41e6 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1935,7 +1933,7 @@ aama:ID347601f4-fae3-44c2-b79f-a1fc33179078 a aamas:Muterm ;
 	ged:interrogClass ged:InterrogProWhen ;
 	.
 
-aama:IDde68cb4a-d760-4be5-a975-74ed44b4b68a a aamas:Muterm ;
+aama:IDdd4c0f8d-faae-4d8c-bcf8-b0541f0da771 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1944,7 +1942,7 @@ aama:IDde68cb4a-d760-4be5-a975-74ed44b4b68a a aamas:Muterm ;
 	ged:interrogClass ged:InterrogProWhere ;
 	.
 
-aama:ID01dc7ecc-f523-487f-9248-238b27670eff a aamas:Muterm ;
+aama:IDd5a41b39-2573-4fa6-b3fe-2cdbe375e8c6 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1953,7 +1951,7 @@ aama:ID01dc7ecc-f523-487f-9248-238b27670eff a aamas:Muterm ;
 	ged:interrogClass ged:InterrogProHow ;
 	.
 
-aama:ID99393e12-30f5-46fd-b92f-bc0b21a7e268 a aamas:Muterm ;
+aama:ID98f3c9ad-f3a8-41fc-98cc-43efcba3ea8a a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PInterr ;
 	aamas:morpheme aama:Gedeo-PROINTERROG ;
 	ged:pos ged:Pronoun ;
@@ -1969,7 +1967,7 @@ ged:gedeo-PPoss a aamas:MuTermcluster ;
 	rdfs:comment "HudsonG1976 pp. 256-259." 
 	.
 
-aama:ID45d8c316-322e-4b94-a47a-27152960416a a aamas:Muterm ;
+aama:IDb33b6b3b-1d60-4d08-b3b7-512b21116b98 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -1982,7 +1980,7 @@ aama:ID45d8c316-322e-4b94-a47a-27152960416a a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID1053e876-87e6-4570-bf87-7f5724cab729 a aamas:Muterm ;
+aama:ID3880bb89-ae51-4d16-9267-18af4b5ccda0 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -1995,7 +1993,7 @@ aama:ID1053e876-87e6-4570-bf87-7f5724cab729 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID74792756-254a-4f4d-b756-b3f5589f1305 a aamas:Muterm ;
+aama:ID7dae4e68-5dae-468e-9681-f192f27da749 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2008,7 +2006,7 @@ aama:ID74792756-254a-4f4d-b756-b3f5589f1305 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID965b91d7-6ef9-4e8d-9151-77290e8470f2 a aamas:Muterm ;
+aama:IDf14422a7-7e0f-4328-a2cc-48d433b9ca74 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2021,7 +2019,7 @@ aama:ID965b91d7-6ef9-4e8d-9151-77290e8470f2 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID47853627-cd6d-4d7d-a0dd-6bdea8acaf70 a aamas:Muterm ;
+aama:IDa005e608-1594-4f20-8986-b552454cf882 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2034,7 +2032,7 @@ aama:ID47853627-cd6d-4d7d-a0dd-6bdea8acaf70 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID4bc16c64-277f-4311-a6e4-df2358a343f3 a aamas:Muterm ;
+aama:IDd6466123-d720-44e4-84ae-dfa86117627c a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2047,7 +2045,7 @@ aama:ID4bc16c64-277f-4311-a6e4-df2358a343f3 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID1bd3a685-0042-4155-a8e8-64d69683db08 a aamas:Muterm ;
+aama:IDadcf2d90-1736-4158-a8c0-1cf03a9fe0c2 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2060,7 +2058,7 @@ aama:ID1bd3a685-0042-4155-a8e8-64d69683db08 a aamas:Muterm ;
 	ged:genderHead ged:HeadMasc ;
 	.
 
-aama:ID37246a74-d598-454e-ad0e-f29722cf4b95 a aamas:Muterm ;
+aama:IDab4f5e4e-98f9-403a-b2d9-a933d47506f1 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2073,7 +2071,7 @@ aama:ID37246a74-d598-454e-ad0e-f29722cf4b95 a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:IDeccc61e4-cd5a-4d03-8a09-a269075c6189 a aamas:Muterm ;
+aama:IDdc1ac558-2fd3-486d-bfd0-ddd2bb6997a3 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2086,7 +2084,7 @@ aama:IDeccc61e4-cd5a-4d03-8a09-a269075c6189 a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:IDb3b21de2-57ae-47fb-a393-cf6410c1ce96 a aamas:Muterm ;
+aama:ID15151176-b8a7-4e9c-8a59-92a5a5ebe435 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2099,7 +2097,7 @@ aama:IDb3b21de2-57ae-47fb-a393-cf6410c1ce96 a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:ID618b63fa-47a2-4f28-b860-e14eeba08eac a aamas:Muterm ;
+aama:IDdd964779-7e33-4367-beb0-ba32e6965732 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2112,7 +2110,7 @@ aama:ID618b63fa-47a2-4f28-b860-e14eeba08eac a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:ID2e3e18a6-e079-46be-99ac-a0ae243ec4b8 a aamas:Muterm ;
+aama:IDc3a08b54-dbe2-410a-8cc0-80d3400b6e71 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2125,7 +2123,7 @@ aama:ID2e3e18a6-e079-46be-99ac-a0ae243ec4b8 a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:ID0271aba9-6d32-4e0f-8dc8-c3dba4a4f360 a aamas:Muterm ;
+aama:IDbe885ac6-6416-4f5a-a3ee-d52c34df7c90 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2138,7 +2136,7 @@ aama:ID0271aba9-6d32-4e0f-8dc8-c3dba4a4f360 a aamas:Muterm ;
 	ged:genderHead ged:HeadFem ;
 	.
 
-aama:ID64a6a8d2-bd9d-4c4a-9651-8fb14f3f4c3d a aamas:Muterm ;
+aama:IDe9b6ed27-cc81-4ff8-8a0a-a7a6276ce77f a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPoss ;
 	aamas:morpheme aama:Gedeo-PROPOSS ;
 	ged:caseHead ged:HeadAbsolutive ;
@@ -2158,7 +2156,7 @@ ged:gedeo-PPersonal a aamas:MuTermcluster ;
 	rdfs:comment "HudsonG1976 pp. 256-259." 
 	.
 
-aama:ID82e10fea-dee8-4f58-8490-cec2854adad6 a aamas:Muterm ;
+aama:ID18c32e14-d490-49bc-9793-64747379102b a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2170,7 +2168,7 @@ aama:ID82e10fea-dee8-4f58-8490-cec2854adad6 a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDb64dd0aa-040f-4b3c-8596-fc87e75dadf1 a aamas:Muterm ;
+aama:ID069dd993-4f2f-4fa1-80e0-7b4dc63f786a a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2182,7 +2180,7 @@ aama:IDb64dd0aa-040f-4b3c-8596-fc87e75dadf1 a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID02e9cd8b-dc53-452a-b424-ed7dbf7faecb a aamas:Muterm ;
+aama:ID2e072666-ceb2-41a8-ad4c-a9f01ab4f9cf a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2194,7 +2192,7 @@ aama:ID02e9cd8b-dc53-452a-b424-ed7dbf7faecb a aamas:Muterm ;
 	ged:gender ged:Masc ;
 	.
 
-aama:IDb912daea-d98c-49bd-a40f-3435265bd30d a aamas:Muterm ;
+aama:ID6d7d487d-52d6-4442-a490-c2bdfdd33aa2 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2206,7 +2204,7 @@ aama:IDb912daea-d98c-49bd-a40f-3435265bd30d a aamas:Muterm ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID4cb86908-b17a-486c-937d-31069b3691e0 a aamas:Muterm ;
+aama:ID54f6aebb-c250-49be-b195-7b6f440a8eb8 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2218,7 +2216,7 @@ aama:ID4cb86908-b17a-486c-937d-31069b3691e0 a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID7d9889d5-8102-4ba0-b5d0-4701c928296e a aamas:Muterm ;
+aama:ID009e441d-58dd-481b-8e23-a6ca7d50efb1 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2230,7 +2228,7 @@ aama:ID7d9889d5-8102-4ba0-b5d0-4701c928296e a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID349ecad1-976e-4224-999c-adace293899f a aamas:Muterm ;
+aama:IDdd6d762a-fb61-4ae2-b9a1-afab4fe435f8 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2242,7 +2240,7 @@ aama:ID349ecad1-976e-4224-999c-adace293899f a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID5fcbd448-3ee4-4fd1-9914-b71790dc93f3 a aamas:Muterm ;
+aama:IDa0be44ba-9052-4401-ab09-4525fe440406 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2254,7 +2252,7 @@ aama:ID5fcbd448-3ee4-4fd1-9914-b71790dc93f3 a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID261fe332-a3a7-4288-99ec-6a404e19bbdb a aamas:Muterm ;
+aama:IDa09c6825-fcfa-45fa-b1e1-f75c0b99e0da a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2266,7 +2264,7 @@ aama:ID261fe332-a3a7-4288-99ec-6a404e19bbdb a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID417928f4-12e4-474b-89dd-354d489684ba a aamas:Muterm ;
+aama:ID830a4d76-1d08-4cf9-a77c-e7673093465b a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2278,7 +2276,7 @@ aama:ID417928f4-12e4-474b-89dd-354d489684ba a aamas:Muterm ;
 	ged:gender ged:Masc ;
 	.
 
-aama:ID3a655ac9-f9ae-4034-8a5d-c1db07869b0b a aamas:Muterm ;
+aama:ID70dba971-4f46-4652-b9e0-ee2b1de185cd a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2290,7 +2288,7 @@ aama:ID3a655ac9-f9ae-4034-8a5d-c1db07869b0b a aamas:Muterm ;
 	ged:gender ged:Fem ;
 	.
 
-aama:ID0ca41666-8598-45a3-80b8-8123c5a7d121 a aamas:Muterm ;
+aama:ID56dcc573-6255-490f-be17-c7e9cf54ffbc a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2302,7 +2300,7 @@ aama:ID0ca41666-8598-45a3-80b8-8123c5a7d121 a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:IDcd324f4d-aa7e-4263-8ffb-6d5289c7846c a aamas:Muterm ;
+aama:IDd30b7b41-6f9f-493e-89d7-22e2d850ca78 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2314,7 +2312,7 @@ aama:IDcd324f4d-aa7e-4263-8ffb-6d5289c7846c a aamas:Muterm ;
 	ged:gender ged:Common ;
 	.
 
-aama:ID914fc9ca-156c-48ac-ba0f-422a059d8895 a aamas:Muterm ;
+aama:ID29f961b8-5f29-4d2b-8dd4-f4ee8b099c7f a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PPersonal ;
 	aamas:morpheme aama:Gedeo-PROIND ;
 	ged:pos ged:Pronoun ;
@@ -2333,7 +2331,7 @@ ged:gedeo-PDemonstrative a aamas:MuTermcluster ;
 	rdfs:comment "HudsonG1976 pp. 255-256." 
 	.
 
-aama:ID19eaae4c-3e78-4874-bcd9-e3dcda7f1c2d a aamas:Muterm ;
+aama:ID404a4321-f877-4be4-aded-6261db396b17 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2345,7 +2343,7 @@ aama:ID19eaae4c-3e78-4874-bcd9-e3dcda7f1c2d a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID2d527027-2a2d-4f4d-b29a-657e38da00b0 a aamas:Muterm ;
+aama:IDc9b1dbd9-dc70-4fd6-85d7-40a6c9f3fb3c a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2357,7 +2355,7 @@ aama:ID2d527027-2a2d-4f4d-b29a-657e38da00b0 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID0d03337c-5112-4439-87cc-f9c16b9ba3a0 a aamas:Muterm ;
+aama:ID1db6ee03-90ac-4a11-a4c7-57fec868cd67 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2369,7 +2367,7 @@ aama:ID0d03337c-5112-4439-87cc-f9c16b9ba3a0 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID37c28e27-818d-432a-903d-709338862a51 a aamas:Muterm ;
+aama:ID6003d2d4-41c7-4b48-b6c2-c0e2ed48e6c6 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2381,7 +2379,7 @@ aama:ID37c28e27-818d-432a-903d-709338862a51 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID5183e80d-39b0-429e-b202-191305ad6e08 a aamas:Muterm ;
+aama:ID9777e85e-dbe5-44d1-881e-81c272b225d7 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2393,7 +2391,7 @@ aama:ID5183e80d-39b0-429e-b202-191305ad6e08 a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:IDb032e981-ec4f-45d4-8209-7af4c4f8b19c a aamas:Muterm ;
+aama:ID63f17ebe-ad3c-4bdb-8466-8dacbfb0582f a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2405,7 +2403,7 @@ aama:IDb032e981-ec4f-45d4-8209-7af4c4f8b19c a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:IDd7e5c6d3-ab21-4822-a9ca-4225f43c9b7a a aamas:Muterm ;
+aama:ID04795362-97bd-4d14-9166-c285f6191ea0 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2417,7 +2415,7 @@ aama:IDd7e5c6d3-ab21-4822-a9ca-4225f43c9b7a a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:ID4ce98892-0055-4c2e-8074-2662a9c597d9 a aamas:Muterm ;
+aama:ID57d0bab7-5ae3-4a22-8156-93351bb0d385 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2429,7 +2427,7 @@ aama:ID4ce98892-0055-4c2e-8074-2662a9c597d9 a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:ID0455e085-dc85-4932-bf50-7c82ebd1b05b a aamas:Muterm ;
+aama:IDcfff0ea4-2353-4a42-a227-c2bfcce71d32 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2441,7 +2439,7 @@ aama:ID0455e085-dc85-4932-bf50-7c82ebd1b05b a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID23d9f7b1-975f-4127-b15b-b38da2e74d91 a aamas:Muterm ;
+aama:ID01413b6e-10a8-492a-a9c6-ac94de42a409 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2453,7 +2451,7 @@ aama:ID23d9f7b1-975f-4127-b15b-b38da2e74d91 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID7fdecf6e-4e83-4ad4-8fca-5b28f5249ea5 a aamas:Muterm ;
+aama:IDca76eaf8-da4e-4400-b425-718f064dcc42 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2465,7 +2463,7 @@ aama:ID7fdecf6e-4e83-4ad4-8fca-5b28f5249ea5 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:IDe87cb3e5-33a0-4c8c-b4b4-f7ad04a76384 a aamas:Muterm ;
+aama:ID0aa05c27-5d29-4416-aae4-1f4fff05040d a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2477,7 +2475,7 @@ aama:IDe87cb3e5-33a0-4c8c-b4b4-f7ad04a76384 a aamas:Muterm ;
 	ged:case ged:Absolutive ;
 	.
 
-aama:ID18d2a8a9-b877-4d5f-b0ba-980a0b3dda52 a aamas:Muterm ;
+aama:IDd567a2de-472d-4434-8c18-48dbe149e313 a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2489,7 +2487,7 @@ aama:ID18d2a8a9-b877-4d5f-b0ba-980a0b3dda52 a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:ID3b207e87-0f58-4cb8-a437-564b03beea4b a aamas:Muterm ;
+aama:ID342790e0-dc78-4e50-b53c-9de5a8638ece a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2501,7 +2499,7 @@ aama:ID3b207e87-0f58-4cb8-a437-564b03beea4b a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:ID3b4662d5-06ed-4404-a52d-c7aab790aee9 a aamas:Muterm ;
+aama:ID4aa39b8f-1969-4d7a-b006-b8ba6a70e1cc a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
@@ -2513,7 +2511,7 @@ aama:ID3b4662d5-06ed-4404-a52d-c7aab790aee9 a aamas:Muterm ;
 	ged:case ged:Nominative ;
 	.
 
-aama:ID59683fac-512a-41f6-9c83-f72add9dd764 a aamas:Muterm ;
+aama:IDd90bd171-a899-40e7-8827-11a3c0d372dd a aamas:Muterm ;
 	aamas:lang aama:Gedeo ;	aamas:memberOf ged:gedeo-PDemonstrative ;
 	aamas:morpheme aama:Gedeo-PRODEM ;
 	ged:pos ged:Pronoun ;
