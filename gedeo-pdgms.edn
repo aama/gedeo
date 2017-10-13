@@ -5,19 +5,19 @@
 :datasource "WedekindK1985"
 :geodemoURL "http://www.ethnologue.com/language/drs"
 :geodemoTXT "Varieties and subdialects of Gedeo are spoken in the 'Southern Nations, Nationalities, and Peoples’ and Oromia regions: central highland area, southwest of Dilla and east of Lake Abaya'."
-:schemata{:gender [:Common :Fem :Masc],
-          :genderHead [:HeadFem :HeadMasc],
-          :interrogClass [:InterrogProHow :InterrogProHowMany :InterrogProWhat :InterrogProWhen :InterrogProWhere :InterrogProWho],
-          :polarity [:Affirmative :Interrogative :Negative],
-          :case [:Absolutive :Nominative],
-          :caseHead [:HeadAbsolutive],
-          :pdgmType [:Finite :NA]
-          :pos [:Pronoun :Verb],
-          :person [:Person1 :Person2 :Person3],
-          :proClass [:Demonstrative :Interrogative :Independent :Possessive],
-          :tam [:DependentConditional :DependentPurposive :HypothNonActual :HypothNonPres :Imperative :ImperfectActual :ImperfectFuture :ImperfectNonActual :ImperfectNonPresent :ImperfectNonPresent2 :Perfect :PerfectActual :PerfectNonActual :PerfectNonPresent :PerfectNonPresent2],
-          :number [:Plural :Singular],
-          :deixis [:Far :Near]}
+ :schemata {:case [:Absolutive  :Nominative],
+            :caseHead [:HeadAbsolutive],
+            :deixis [:Far :Near],
+            :gender [:Common :Fem :Masc],
+            :genderHead [:HeadFem :HeadMasc],
+            :interrogClass [:InterrogProHow :InterrogProHowMany :InterrogProWhat :InterrogProWhen :InterrogProWhere :InterrogProWho],
+            :number [:Plural :Singular],
+            :person [:Person1 :Person2 :Person3],
+            :polarity [:Affirmative :Interrogative :Negative],
+            :pos [:Pronoun :Verb],
+            :proClass [:Demonstrative :Independent :Interrogative :Possessive],
+            :tam [:DependentConditional :DependentPurposive :HypothNonActual :HypothNonPres :Imperative :ImperfectActual :ImperfectFuture :ImperfectNonActual :ImperfectNonPresent :ImperfectNonPresent2 :Perfect :PerfectActual :PerfectNonActual :PerfectNonPresent :PerfectNonPresent2]
+            :pdgmType [:Finite :PRO]}
 :pclass {:pngClass [:person :number :gender :genderHead],
           :synsemClass [:case :caseHead :deixis :derivedStem :interrogClass :polarity :pos :proClass :tamb],
           :inflClass [],
@@ -46,7 +46,7 @@
     }
     {:label "gedeo-PPoss"
     :note "HudsonG1976 pp. 256-259."
-    :pdgmType :NA
+    :pdgmType :PRO
     :common {:lexeme :PROPOSS,
              :caseHead :HeadAbsolutive,
              :pos :Pronoun,
@@ -133,7 +133,7 @@
     }
     {:label "gedeo-PPersonal"
     :note "HudsonG1976 pp. 256-259."
-    :pdgmType :NA
+    :pdgmType :PRO
     :common {:lexeme :PROIND,
              :pos :Pronoun,
              :proClass :Independent}
@@ -168,7 +168,7 @@
     }
     {:label "gedeo-PInterr"
     :note "HudsonG1976 p. 259."
-    :pdgmType :NA
+    :pdgmType :PRO
     :common {:lexeme :PROINTERROG,
              :pos :Pronoun,
              :proClass :Interrogative}
@@ -294,7 +294,7 @@
     }
     {:label "gedeo-PDemonstrative"
     :note "HudsonG1976 pp. 255-256."
-    :pdgmType :NA
+    :pdgmType :PRO
     :common {:lexeme :PRODEM,
              :pos :Pronoun,
              :proClass :Demonstrative}
