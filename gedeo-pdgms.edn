@@ -5,8 +5,7 @@
  :datasource "WedekindK1985"
  :geodemoURL "http://www.ethnologue.com/language/drs"
  :geodemoTXT "Varieties and subdialects of Gedeo are spoken in the 'Southern Nations, Nationalities, and Peoples’ and Oromia regions: central highland area, southwest of Dilla and east of Lake Abaya'."
- :schemata {:lexeme [:mar ],
- :case [:Absolutive :Nominative],
+ :schemata { :case [:Absolutive :Nominative],
  :caseHead [:HeadAbsolutive],
  :deixis [:Far :Near],
  :gender [:Common :Fem :Masc],
@@ -25,7 +24,9 @@
           :synsemClass [:case :caseHead :deixis :derivedStem :interrogClass :polarity :pos :proClass :tamb],
           :inflClass [],
           :otherClass []}
- :lexemes{:mar {:lemma "mar-", :gloss "go"}}
+ :lexemes {
+:mar   {:pos :Verb, :lemma "mar-", :gloss "go", },
+}
  :termclusters [
                 {:label "gedeo-VAffHypothNonPres-mar"
                  :note "WedekindK1985 p. 85-98. 3 sg f is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p. 91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp. 99-104."
