@@ -1,479 +1,519 @@
 {
   "lang": "gedeo",
   "subfamily": "Highland East Cushitic",
-  "sgpref": "ged",
-  "datasource": "WedekindK1985, HudsonG1976; abbrev. WK85, HG76",
+  "lgpref": "ged",
+  "datasource": "Wedekind, Klaus. 1985. 'Gedeo (Darasa) Verb Morphology and Morphophonemics'. Afrikanistische Arbeitspapieren 2, 82-109; Hudson, Grover. 1976. 'Highland East Cush'.  in The Non-Semitic Languages of Ethiopia, ed. Lionel Bender. East Lansing: African Studies Center, Michigan State University, Pp. 232–77 [WK85, HG76]",
+  "datasourceNotes": "",
   "geodemoURL": "http://www.ethnologue.com/language/drs",
-  "geodemoTXT": "Varieties and subdialects of Gedeo are spoken in the ZZSouthern Nations, Nationalities, and Peoples’ and Oromia regions: central highland area, southwest of Dilla and east of Lake AbayaZZ.",
+  "geodemoTXT": "Varieties and subdialects of Gedeo are spoken in the ZZSouthern Nations, Nationalities, and Peoples’ and Oromia regions: central highland area, southwest of Dilla and east of Lake Abaya.",
   "schemata": {
-    "person": [
-      "Person1",
-      "Person2",
-      "Person3"
-    ],
-    "number": [
-      "Plural",
-      "Singular"
-    ],
-    "vmorphClass": [
-      "Finite"
-    ],
-    "caseHead": [
-      "HeadAbsolutive"
-    ],
-    "genderHead": [
-      "HeadFem",
-      "HeadMasc"
-    ],
-    "interrogClass": [
-      "InterrogProHow",
-      "InterrogProHowMany",
-      "InterrogProWhat",
-      "InterrogProWhen",
-      "InterrogProWhere",
-      "InterrogProWho"
-    ],
-    "pos": [
-      "Pronoun",
-      "Verb"
-    ],
-    "proClass": [
-      "Demonstrative",
-      "Independent",
-      "Interrogative",
-      "Possessive"
-    ],
-    "pmorphClass": [
-      "ProMorph"
-    ],
-    "case": [
-      "Absolutive",
-      "Nominative"
-    ],
-    "polarity": [
-      "Affirmative",
-      "Interrogative",
-      "Negative"
-    ],
-    "tam": [
-      "DependentConditional",
-      "DependentPurposive",
-      "HypothNonActual",
-      "HypothNonPres",
-      "Imperative",
-      "ImperfectActual",
-      "ImperfectFuture",
-      "ImperfectNonActual",
-      "ImperfectNonPresent",
-      "ImperfectNonPresent2",
-      "Perfect",
-      "PerfectActual",
-      "PerfectNonActual",
-      "PerfectNonPresent",
-      "PerfectNonPresent2"
-    ],
-    "gender": [
-      "Common",
-      "Fem",
-      "Masc"
-    ],
-    "deixis": [
-      "Far",
-      "Near"
+  "case": [
+    "Absolutive",
+    "Nominative"
+  ],
+  "caseHead": [
+    "HeadAbsolutive"
+  ],
+  "deixis": [
+    "Far",
+    "Near"
+  ],
+  "gender": [
+    "Common",
+    "Fem",
+    "Masc"
+  ],
+  "genderHead": [
+    "HeadFem",
+    "HeadMasc"
+  ],
+  "interrogClass": [
+    "InterrogProHow",
+    "InterrogProHowMany",
+    "InterrogProWhat",
+    "InterrogProWhen",
+    "InterrogProWhere",
+    "InterrogProWho"
+  ],
+  "lexeme": [
+    "mar"
+  ],
+  "number": [
+    "Plural",
+    "Singular"
+  ],
+  "person": [
+    "Person1",
+    "Person2",
+    "Person3"
+  ],
+  "polarity": [
+    "Affirmative",
+    "Interrogative",
+    "Negative"
+  ],
+  "pos": [
+    "Pronoun",
+    "Verb"
+  ],
+  "proClass": [
+    "Demonstrative",
+    "Independent",
+    "Interrogative",
+    "Possessive"
+  ],
+  "tam": [
+    "DependentConditional",
+    "DependentPurposive",
+    "HypothNonActual",
+    "HypothNonPres",
+    "Imperative",
+    "ImperfectActual",
+    "ImperfectFuture",
+    "ImperfectNonActual",
+    "ImperfectNonPresent",
+    "ImperfectNonPresent2",
+    "Perfect",
+    "PerfectActual",
+    "PerfectNonActual",
+    "PerfectNonPresent",
+    "PerfectNonPresent2"
+  ]
+},
+  "lexemes": {
+  "mar": {
+    "pos": "Verb",
+    "lemma": "mar-",
+    "gloss": "go"
+  }
+},
+  "pdgmPropOrder": ["pos", "proClass", "lexeme", "tam", "polarity"],
+  "termclusters": [
+  {
+    "label": "ged-PronounDemonstrative",
+    "note": "HG76pp.255-256",
+    "common": {
+      "pos": "Pronoun",
+      "proClass": "Demonstrative"
+    },
+    "terms": [
+      ["case" ,"deixis" ,"number" ,"gender" ,"token"],
+      ["Absolutive" ,"Far" ,"Singular" ,"Masc" ,"okkone"],
+      ["Absolutive" ,"Far" ,"Singular" ,"Fem" ,"ettene"],
+      ["Absolutive" ,"Far" ,"Plural" ,"Masc" ,"okkone"],
+      ["Absolutive" ,"Far" ,"Plural" ,"Fem" ,"etteme"],
+      ["Absolutive" ,"Near" ,"Singular" ,"Masc" ,"konne"],
+      ["Absolutive" ,"Near" ,"Singular" ,"Fem" ,"tenne"],
+      ["Absolutive" ,"Near" ,"Plural" ,"Masc" ,"konne"],
+      ["Absolutive" ,"Near" ,"Plural" ,"Fem" ,"tenne"],
+      ["Nominative" ,"Far" ,"Singular" ,"Masc" ,"ikki"],
+      ["Nominative" ,"Far" ,"Singular" ,"Fem" ,"itti"],
+      ["Nominative" ,"Far" ,"Plural" ,"Masc" ,"ikki"],
+      ["Nominative" ,"Far" ,"Plural" ,"Fem" ,"itti"],
+      ["Nominative" ,"Near" ,"Singular" ,"Masc" ,"kuni"],
+      ["Nominative" ,"Near" ,"Singular" ,"Fem" ,"tini"],
+      ["Nominative" ,"Near" ,"Plural" ,"Masc" ,"kuni"],
+      ["Nominative" ,"Near" ,"Plural" ,"Fem" ,"tini"]
     ]
   },
-  "lexemes": {
-    "mar": {
-      "pos": "Verb",
-      "lemma": "mar-",
-      "gloss": "go"
-    }
+  {
+    "label": "ged-PronounIndependent",
+    "note": "HG76pp.256-259",
+    "common": {
+      "pos": "Pronoun",
+      "proClass": "Independent"
+    },
+    "terms": [
+      ["case" ,"number" ,"person" ,"gender" ,"token"],
+      ["Absolutive" ,"Singular" ,"Person1" ,"Common" ,"ane"],
+      ["Absolutive" ,"Singular" ,"Person2" ,"Common" ,"ate"],
+      ["Absolutive" ,"Singular" ,"Person3" ,"Masc" ,"iso(o)"],
+      ["Absolutive" ,"Singular" ,"Person3" ,"Fem" ,"ise(e)"],
+      ["Absolutive" ,"Plural" ,"Person1" ,"Common" ,"noʔo(s)"],
+      ["Absolutive" ,"Plural" ,"Person2" ,"Common" ,"as̆inhaʔno(o)"],
+      ["Absolutive" ,"Plural" ,"Person3" ,"Common" ,"insaʔne(e)"],
+      ["Nominative" ,"Singular" ,"Person1" ,"Common" ,"ani"],
+      ["Nominative" ,"Singular" ,"Person2" ,"Common" ,"asti"],
+      ["Nominative" ,"Singular" ,"Person3" ,"Masc" ,"isi"],
+      ["Nominative" ,"Singular" ,"Person3" ,"Fem" ,"ise"],
+      ["Nominative" ,"Plural" ,"Person1" ,"Common" ,"noʔo"],
+      ["Nominative" ,"Plural" ,"Person2" ,"Common" ,"as̆inhaʔno"],
+      ["Nominative" ,"Plural" ,"Person3" ,"Common" ,"insaʔne"]
+    ]
   },
-  "termclusters": [
-{
-"label": "gedeo-VAffHypothNonPres-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "HypothNonPres",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-uunna(ni)"],
- ["Singular", "Person2", "Common", "mar-tuutta(ni)"],
- ["Singular", "Person3", "Masc", "mar-uumma(ni)"],
- ["Singular", "Person3", "Fem", "mar-tuumma(ni)"],
- ["Plural", "Person1", "Common", "mar-ruunna(ni)"],
- ["Plural", "Person2", "Common", "mar-tinuumma(ni)"],
- ["Plural", "Person3", "Common", "mar-uumma(ni)"]]
-},
-{
-"label": "gedeo-PPoss",
-"note": "HG76pp.256-259.",
-"common": {"caseHead": "HeadAbsolutive",
- "pmorphClass": "ProMorph",
- "pos": "Pronoun",
- "proClass": "Possessive"},
-"terms":  
-[["genderHead", "number", "person", "gender", "token"],
- ["HeadFem", "Singular", "Person1", "Common", "an-tte"],
- ["HeadFem", "Singular", "Person2", "Common", "asti-tte"],
- ["HeadFem", "Singular", "Person3", "Masc", "isi-tte"],
- ["HeadFem", "Singular", "Person3", "Fem", "ise-tte"],
- ["HeadFem", "Plural", "Person1", "Common", "noʔo-tte"],
- ["HeadFem", "Plural", "Person2", "Common", "as̆inhaʔno-tte"],
- ["HeadFem", "Plural", "Person3", "Common", "insaʔne-tte"],
- ["HeadMasc", "Singular", "Person1", "Common", "an-ke"],
- ["HeadMasc", "Singular", "Person2", "Common", "asti-ke"],
- ["HeadMasc", "Singular", "Person3", "Masc", "isi-ke"],
- ["HeadMasc", "Singular", "Person3", "Fem", "ise-ke"],
- ["HeadMasc", "Plural", "Person1", "Common", "noʔo-ke"],
- ["HeadMasc", "Plural", "Person2", "Common", "as̆inhaʔno-ke"],
- ["HeadMasc", "Plural", "Person3", "Common", "insaʔne-ke"]]
-},
-{
-"label": "gedeo-VAffPerfNonActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "PerfectNonActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-eennu(ni)"],
- ["Singular", "Person2", "Common", "mar-teettu(ni)"],
- ["Singular", "Person3", "Masc", "mar-euu(ni)"],
- ["Singular", "Person3", "Fem", "mar-teuu(ni)"],
- ["Plural", "Person1", "Common", "mar-reennu(ni)"],
- ["Plural", "Person2", "Common", "mar-tineuu(ni)"],
- ["Plural", "Person3", "Common", "mar-reuu(ni)"]]
-},
-{
-"label": "gedeo-VAffImperfNonActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "ImperfectNonActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-aannu(ni)"],
- ["Singular", "Person2", "Common", "mar-taattu(ni)"],
- ["Singular", "Person3", "Masc", "mar-anuu(ni)"],
- ["Singular", "Person3", "Fem", "mar-tanuu(ni)"],
- ["Plural", "Person1", "Common", "mar-raanna(ni)"],
- ["Plural", "Person2", "Common", "mar-tinanuu(ni)"],
- ["Plural", "Person3", "Common", "mar-ranuu(ni)"]]
-},
-{
-"label": "gedeo-VAffImperfNonPres2-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "ImperfectNonPresent2",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-áanná(ni)"],
- ["Singular", "Person2", "Common", "mar-táattá(ni)"],
- ["Singular", "Person3", "Masc", "mar-áammá(ni)"],
- ["Singular", "Person3", "Fem", "mar-táammá(ni)"],
- ["Plural", "Person1", "Common", "mar-ráanná(ni)"],
- ["Plural", "Person2", "Common", "mar-tináammá(ni)"],
- ["Plural", "Person3", "Common", "mar-ráammá(ni)"]]
-},
-{
-"label": "gedeo-VAffPerfNonPres2-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "PerfectNonPresent2",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-éennáa"],
- ["Singular", "Person2", "Common", "mar-téettáa"],
- ["Singular", "Person3", "Masc", "mar-éemmáa"],
- ["Singular", "Person3", "Fem", "mar-téemmáa"],
- ["Plural", "Person1", "Common", "mar-réennáa"],
- ["Plural", "Person2", "Common", "mar-tinéemmáa"],
- ["Plural", "Person3", "Common", "mar-réemmáa"]]
-},
-{
-"label": "gedeo-PPersonal",
-"note": "HG76pp.256-259",
-"common": {"pmorphClass": "ProMorph",
- "pos": "Pronoun",
- "proClass": "Independent"},
-"terms":  
-[["case", "number", "person", "gender", "token"],
- ["Absolutive", "Singular", "Person1", "Common", "ane"],
- ["Absolutive", "Singular", "Person2", "Common", "ate"],
- ["Absolutive", "Singular", "Person3", "Masc", "iso(o)"],
- ["Absolutive", "Singular", "Person3", "Fem", "ise(e)"],
- ["Absolutive", "Plural", "Person1", "Common", "noʔo(s)"],
- ["Absolutive", "Plural", "Person2", "Common", "as̆inhaʔno(o)"],
- ["Absolutive", "Plural", "Person3", "Common", "insaʔne(e)"],
- ["Nominative", "Singular", "Person1", "Common", "ani"],
- ["Nominative", "Singular", "Person2", "Common", "asti"],
- ["Nominative", "Singular", "Person3", "Masc", "isi"],
- ["Nominative", "Singular", "Person3", "Fem", "ise"],
- ["Nominative", "Plural", "Person1", "Common", "noʔo"],
- ["Nominative", "Plural", "Person2", "Common", "as̆inhaʔno"],
- ["Nominative", "Plural", "Person3", "Common", "insaʔne"]]
-},
-{
-"label": "gedeo-VNegImprtv-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"gender": "Common",
- "lexeme": "mar",
- "person": "Person2",
- "polarity": "Negative",
- "pos": "Verb",
- "tam": "Imperative",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "token"], ["Singular", "mar-tótteeokkee"], ["Plural", "mar-tin"]]
-},
-{
-"label": "gedeo-PInterr",
-"note": "HG76p.259",
-"common": {"pmorphClass": "ProMorph",
- "pos": "Pronoun",
- "proClass": "Interrogative"},
-"terms":  
-[["interrogClass", "token"],
- ["InterrogProHow", "hiitte"],
- ["InterrogProHowMany", "meʔe"],
- ["InterrogProWhat", "maa"],
- ["InterrogProWhen", "haano"],
- ["InterrogProWhere", "haba"],
- ["InterrogProWho", "ayye"]]
-},
-{
-"label": "gedeo-VNegPerfNonPres-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Negative",
- "pos": "Verb",
- "tam": "PerfectNonPresent",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-énnabáa(ni)"],
- ["Singular", "Person2", "Common", "mar-téettabáa(ni)"],
- ["Singular", "Person3", "Masc", "mar-éemmabáa(ni)"],
- ["Singular", "Person3", "Fem", "mar-téemmabáa(ni)"],
- ["Plural", "Person1", "Common", "mar-rénnabáa(ni)"],
- ["Plural", "Person2", "Common", "mar-éemmabáa(ni)"],
- ["Plural", "Person3", "Common", "mar-éemmabáa(ni)"]]
-},
-{
-"label": "gedeo-VAffHypothNonActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "HypothNonActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-unnu(n)ni"],
- ["Singular", "Person2", "Common", "mar-tuttu(n)ni"],
- ["Singular", "Person3", "Masc", "mar-u(n)ni"],
- ["Singular", "Person3", "Fem", "mar-tuu(n)ni"],
- ["Plural", "Person1", "Common", "mar-runnu(n)ni"],
- ["Plural", "Person2", "Common", "mar-tinuu(n)ni"],
- ["Plural", "Person3", "Common", "mar-ru(n)ni"]]
-},
-{
-"label": "gedeo-VAffDepCond-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "DependentConditional",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "már-onnó(le)"],
- ["Singular", "Person2", "Common", "már-tottó(le)"],
- ["Singular", "Person3", "Masc", "mar-óo(le)"],
- ["Singular", "Person3", "Fem", "mar-tóo(le)"],
- ["Plural", "Person1", "Common", "már-ronnó(le)"],
- ["Plural", "Person2", "Common", "már-tinanée(le)"],
- ["Plural", "Person3", "Common", "mar-róo(le)"]]
-},
-{
-"label": "gedeo-VAffImperfNonPres-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "ImperfectNonPresent",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-áenná(ni)"],
- ["Singular", "Person2", "Common", "mar-táettá(ni)"],
- ["Singular", "Person3", "Masc", "mar-áemmá(ni)"],
- ["Singular", "Person3", "Fem", "mar-táemmá(ni)"],
- ["Plural", "Person1", "Common", "mar-ráenná(ni)"],
- ["Plural", "Person2", "Common", "mar-tináemmá(ni)"],
- ["Plural", "Person3", "Common", "mar-ráemmá(ni)"]]
-},
-{
-"label": "gedeo-VAffImperfFut-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "ImperfectFuture",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "(mará) mar-annó(ni)"],
- ["Singular", "Person2", "Common", "(mará) mar-tattó(ni)"],
- ["Singular", "Person3", "Masc", "(mará) mar-áa(ni)"],
- ["Singular", "Person3", "Fem", "(mará) mar-táa(ni)"],
- ["Plural", "Person1", "Common", "(mará) mar-rannó(ni)"],
- ["Plural", "Person2", "Common", "(mará) mar-tináa(ni)"],
- ["Plural", "Person3", "Common", "(mará) mar-ráa(ni)"]]
-},
-{
-"label": "gedeo-VAffPerfNonPres-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "PerfectNonPresent",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-éenná(ni)"],
- ["Singular", "Person2", "Common", "mar-téettá(ni)"],
- ["Singular", "Person3", "Masc", "mar-éemmá(ni)"],
- ["Singular", "Person3", "Fem", "mar-téemmá(ni)"],
- ["Plural", "Person1", "Common", "mar-réenná(ni)"],
- ["Plural", "Person2", "Common", "mar-tinéemmá(ni)"],
- ["Plural", "Person3", "Common", "mar-réemmá(ni)"]]
-},
-{
-"label": "gedeo-VAffImperfActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "ImperfectActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-áenné(ni)"],
- ["Singular", "Person2", "Common", "mar-táetté(ni)"],
- ["Singular", "Person3", "Masc", "mar-ánee(ni)"],
- ["Singular", "Person3", "Fem", "mar-tánee(ni)"],
- ["Plural", "Person1", "Common", "mar-ráenné(ni)"],
- ["Plural", "Person2", "Common", "mar-tinánee(ni)"],
- ["Plural", "Person3", "Common", "mar-ránee(ni)"]]
-},
-{
-"label": "gedeo-PDemonstrative",
-"note": "HG76pp.255-256",
-"common": {"pmorphClass": "ProMorph",
- "pos": "Pronoun",
- "proClass": "Demonstrative"},
-"terms":  
-[["case", "deixis", "number", "gender", "token"],
- ["Absolutive", "Far", "Singular", "Masc", "okkone"],
- ["Absolutive", "Far", "Singular", "Fem", "ettene"],
- ["Absolutive", "Far", "Plural", "Masc", "okkone"],
- ["Absolutive", "Far", "Plural", "Fem", "etteme"],
- ["Absolutive", "Near", "Singular", "Masc", "konne"],
- ["Absolutive", "Near", "Singular", "Fem", "tenne"],
- ["Absolutive", "Near", "Plural", "Masc", "konne"],
- ["Absolutive", "Near", "Plural", "Fem", "tenne"],
- ["Nominative", "Far", "Singular", "Masc", "ikki"],
- ["Nominative", "Far", "Singular", "Fem", "itti"],
- ["Nominative", "Far", "Plural", "Masc", "ikki"],
- ["Nominative", "Far", "Plural", "Fem", "itti"],
- ["Nominative", "Near", "Singular", "Masc", "kuni"],
- ["Nominative", "Near", "Singular", "Fem", "tini"],
- ["Nominative", "Near", "Plural", "Masc", "kuni"],
- ["Nominative", "Near", "Plural", "Fem", "tini"]]
-},
-{
-"label": "gedeo-VAffDepPurp-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "DependentPurposive",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-ónna(á)"],
- ["Singular", "Person2", "Common", "mar-tótta(á)"],
- ["Singular", "Person3", "Masc", "már-o(á)"],
- ["Singular", "Person3", "Fem", "már-to(á)"],
- ["Plural", "Person1", "Common", "mar-rónna(á)"],
- ["Plural", "Person2", "Common", "mar-tíno(á)"],
- ["Plural", "Person3", "Common", "már-ro(á)"]]
-},
-{
-"label": "gedeo-VAffPerfActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Affirmative",
- "pos": "Verb",
- "tam": "PerfectActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-éenné(ni)"],
- ["Singular", "Person2", "Common", "mar-téetté(ni)"],
- ["Singular", "Person3", "Masc", "mar-éee(ni)"],
- ["Singular", "Person3", "Fem", "mar-téee(ni)"],
- ["Plural", "Person1", "Common", "mar-réenné(ni)"],
- ["Plural", "Person2", "Common", "mar-tinéee(ni)"],
- ["Plural", "Person3", "Common", "mar-réee(ni)"]]
-},
-{
-"label": "gedeo-VNegPerfActual-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"lexeme": "mar",
- "polarity": "Negative",
- "pos": "Verb",
- "tam": "PerfectActual",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "gender", "token"],
- ["Singular", "Person1", "Common", "mar-éebó(ni)"],
- ["Singular", "Person2", "Common", "már-teebótto(ni)"],
- ["Singular", "Person3", "Masc", "már-ebáa(ni)"],
- ["Singular", "Person3", "Fem", "már-tebáa(ni)"],
- ["Plural", "Person1", "Common", "mar-reéebóni(ni)"],
- ["Plural", "Person2", "Common", "már-tinebáa(ni)"],
- ["Plural", "Person3", "Common", "már-rebáa(ni)"]]
-},
-{
-"label": "gedeo-VInterrPerf-mar",
-"note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
-"common": {"gender": "Common",
- "lexeme": "mar",
- "polarity": "Interrogative",
- "pos": "Verb",
- "tam": "Perfect",
- "vmorphClass": "Finite"},
-"terms":  
-[["number", "person", "token"],
- ["Singular", "Person1", "már-enne"],
- ["Singular", "Person2", "már-tette"],
- ["Plural", "Person1", "már-renne"],
- ["Plural", "Person2", "mar-tíne"]]
-}]
-}
+  {
+    "label": "ged-PronounInterrogative",
+    "note": "HG76p.259",
+    "common": {
+      "pos": "Pronoun",
+      "proClass": "Interrogative"
+    },
+    "terms": [
+      ["interrogClass" ,"token"],
+      ["InterrogProHow" ,"hiitte"],
+      ["InterrogProHowMany" ,"meʔe"],
+      ["InterrogProWhat" ,"maa"],
+      ["InterrogProWhen" ,"haano"],
+      ["InterrogProWhere" ,"haba"],
+      ["InterrogProWho" ,"ayye"]
+    ]
+  },
+  {
+    "label": "ged-PronounPossessive",
+    "note": "HG76pp.256-259.",
+    "common": {
+      "caseHead": "HeadAbsolutive",
+      "pos": "Pronoun",
+      "proClass": "Possessive"
+    },
+    "terms": [
+      ["caseHead" ,"genderHead" ,"number" ,"person" ,"gender" ,"token"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Singular" ,"Person1" ,"Common" ,"an-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Singular" ,"Person2" ,"Common" ,"asti-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Singular" ,"Person3" ,"Masc" ,"isi-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Singular" ,"Person3" ,"Fem" ,"ise-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Plural" ,"Person1" ,"Common" ,"noʔo-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Plural" ,"Person2" ,"Common" ,"as̆inhaʔno-tte"],
+      ["HeadAbsolutive" ,"HeadFem" ,"Plural" ,"Person3" ,"Common" ,"insaʔne-tte"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Singular" ,"Person1" ,"Common" ,"an-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Singular" ,"Person2" ,"Common" ,"asti-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Singular" ,"Person3" ,"Masc" ,"isi-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Singular" ,"Person3" ,"Fem" ,"ise-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Plural" ,"Person1" ,"Common" ,"noʔo-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Plural" ,"Person2" ,"Common" ,"as̆inhaʔno-ke"],
+      ["HeadAbsolutive" ,"HeadMasc" ,"Plural" ,"Person3" ,"Common" ,"insaʔne-ke"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-DependentConditionalAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "DependentConditional"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"már-onnó(le)"],
+      ["Singular" ,"Person2" ,"Common" ,"már-tottó(le)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-óo(le)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-tóo(le)"],
+      ["Plural" ,"Person1" ,"Common" ,"már-ronnó(le)"],
+      ["Plural" ,"Person2" ,"Common" ,"már-tinanée(le)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-róo(le)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-DependentPurposiveAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "DependentPurposive"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-ónna(á)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-tótta(á)"],
+      ["Singular" ,"Person3" ,"Masc" ,"már-o(á)"],
+      ["Singular" ,"Person3" ,"Fem" ,"már-to(á)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-rónna(á)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tíno(á)"],
+      ["Plural" ,"Person3" ,"Common" ,"már-ro(á)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-HypothNonActualAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "HypothNonActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-unnu(n)ni"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-tuttu(n)ni"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-u(n)ni"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-tuu(n)ni"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-runnu(n)ni"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinuu(n)ni"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-ru(n)ni"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-HypothNonPresAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "HypothNonPres"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-uunna(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-tuutta(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-uumma(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-tuumma(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-ruunna(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinuumma(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-uumma(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperativeNegative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "Imperative"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-tótteeokkee"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tin"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperfectActualAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "ImperfectActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-áenné(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-táetté(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-ánee(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-tánee(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-ráenné(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinánee(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-ránee(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperfectFutureAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "ImperfectFuture"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"(mará) mar-annó(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"(mará) mar-tattó(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"(mará) mar-áa(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"(mará) mar-táa(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"(mará) mar-rannó(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"(mará) mar-tináa(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"(mará) mar-ráa(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperfectNonActualAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "ImperfectNonActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-aannu(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-taattu(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-anuu(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-tanuu(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-raanna(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinanuu(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-ranuu(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperfectNonPresent2Affirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "ImperfectNonPresent2"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-áanná(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-táattá(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-áammá(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-táammá(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-ráanná(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tináammá(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-ráammá(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-ImperfectNonPresentAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "ImperfectNonPresent"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-áenná(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-táettá(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-áemmá(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-táemmá(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-ráenná(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tináemmá(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-ráemmá(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectActualAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "PerfectActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-éenné(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-téetté(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-éee(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-téee(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-réenné(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinéee(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-réee(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectActualNegative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "PerfectActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-éebó(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"már-teebótto(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"már-ebáa(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"már-tebáa(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-reéebóni(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"már-tinebáa(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"már-rebáa(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectInterrogative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Interrogative",
+      "pos": "Verb",
+      "tam": "Perfect"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"már-enne"],
+      ["Singular" ,"Person2" ,"Common" ,"már-tette"],
+      ["Plural" ,"Person1" ,"Common" ,"már-renne"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tíne"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectNonActualAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "PerfectNonActual"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-eennu(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-teettu(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-euu(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-teuu(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-reennu(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tineuu(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-reuu(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectNonPresent2Affirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "PerfectNonPresent2"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-éennáa"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-téettáa"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-éemmáa"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-téemmáa"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-réennáa"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinéemmáa"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-réemmáa"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectNonPresentAffirmative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "PerfectNonPresent"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-éenná(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-téettá(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-éemmá(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-téemmá(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-réenná(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-tinéemmá(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-réemmá(ni)"]
+    ]
+  },
+  {
+    "label": "ged-Verb-mar-PerfectNonPresentNegative",
+    "note": "WK85p.85-98 :: 3 sg f  is also used for collective plural. Tense values are those of Klaus Wedekind. For the moment,for lack of relevant syntactic information,main clause and subordinate clause tenses are given as distinct values of a single category tense. PerfnonPres2 is a semi-conditionedvariant for PerfnonPres. The same verb form,but without the glottal stop,is used in subordinate sentences:marenna-tta etc. (the fact) that I had goneetc.(p.91). ImperfNonPres2 is more current,younger-generation variant of imperfNonPres. Assimilation/dissimilation rules for consonant clusters given pp.99-104.",
+    "common": {
+      "lexeme": "mar",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "PerfectNonPresent"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"mar-énnabáa(ni)"],
+      ["Singular" ,"Person2" ,"Common" ,"mar-téettabáa(ni)"],
+      ["Singular" ,"Person3" ,"Masc" ,"mar-éemmabáa(ni)"],
+      ["Singular" ,"Person3" ,"Fem" ,"mar-téemmabáa(ni)"],
+      ["Plural" ,"Person1" ,"Common" ,"mar-rénnabáa(ni)"],
+      ["Plural" ,"Person2" ,"Common" ,"mar-éemmabáa(ni)"],
+      ["Plural" ,"Person3" ,"Common" ,"mar-éemmabáa(ni)"]
+    ]
+  }
+]}
